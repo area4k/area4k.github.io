@@ -1,6 +1,9 @@
-- text: Website
-  url: https://www.google.com/
-  icon: globe2
+- text: YouTube
+  url: https://www.youtube.com/@area4k
+  icon: yt
+- text: Twitch
+  url: https://www.youtube.com/@area4k
+  icon: ttv
 - text: Twitter
   url: https://www.twitter.com/areafourk
   icon: twitter
