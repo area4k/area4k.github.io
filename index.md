@@ -1,6 +1,6 @@
 ---
 avatar-name: "area"
-avatar-url: "assets/img/pfp.jpg"
+avatar-url: "assets/img/pfp.png"
 avatar-alt-text: ""
 ---
 
